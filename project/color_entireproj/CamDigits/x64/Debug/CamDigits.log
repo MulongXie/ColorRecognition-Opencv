@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/10/15 11:43:42。
+     1>项目“C:\Users\我\Desktop\新建文件夹 (2)\color\CamDigits\CamDigits.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtCore /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtGui /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtSerialPort /IC:\Qt\Qt5.6.0\5.6\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_CORE_LIB /D QT_GUI_LIB /D QT_SERIALPORT_LIB /D QT_WIDGETS_LIB /D QT_DLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt OCR.cpp
+         OCR.cpp
+     1>c:\users\我\desktop\新建文件夹 (2)\color\camdigits\OCR.h(67): warning C4091: “typedef ”: 没有声明变量时忽略“Turn”的左侧
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\我\Desktop\新建文件夹 (2)\color\x64\Debug\\CamDigits.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.6.0\5.6\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5SerialPortd.lib Qt5Widgetsd.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_ml2413d.lib opencv_nonfree2413d.lib opencv_objdetect2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_videostab2413d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\我\Desktop\新建文件夹 (2)\color\x64\Debug\CamDigits.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\我\Desktop\新建文件夹 (2)\color\x64\Debug\CamDigits.lib" /MACHINE:X64 x64\Debug\camdigits.obj
+         x64\Debug\moc_camdigits.obj
+         x64\Debug\qrc_camdigits.obj
+         x64\Debug\main.obj
+         x64\Debug\OCR.obj
+         CamDigits.vcxproj -> C:\Users\我\Desktop\新建文件夹 (2)\color\x64\Debug\CamDigits.exe
+     1>已完成生成项目“C:\Users\我\Desktop\新建文件夹 (2)\color\CamDigits\CamDigits.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.71
